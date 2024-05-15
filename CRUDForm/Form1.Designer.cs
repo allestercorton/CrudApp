@@ -200,7 +200,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(186, 13);
             this.label5.TabIndex = 13;
-            this.label5.Text = "Click number 0 to display all the data.";
+            this.label5.Text = "Search ID number 0 to display all the data.";
             // 
             // Form1
             // 
